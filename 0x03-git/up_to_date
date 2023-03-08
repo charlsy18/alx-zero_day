@@ -1,2 +1,3 @@
 git fetch --all
 git merge master
+git pull
